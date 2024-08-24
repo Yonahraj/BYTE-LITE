@@ -1,8 +1,8 @@
 {
-  "name": "BYTE-MD-LITE",
+  "name": "YONAHRAJ",
   "description": "A lite version of BYTE-MD for TalkDrove Followers",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg",
+  "logo": "https://chat.whatsapp.com/Dm5d33VvkruASkYBXVBESK",
   "repository": "https://github.com/HyHamza/BYTE-MD-LITE/",
   "succes_url": "/",
   "stack": "container",
@@ -29,12 +29,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "BYTE-V.lite",
+      "value": "YONAHRAJ",
       "required": false
     },
-    "BOT_MENU_LINKS": {
+    "BOT_MENU_LINKS": {"https://chat.whatsapp.com/Dm5d33VvkruASkYBXVBESK"
       "description": "add one or many link for your bot menu ; eg: url1,url2,url3.....",
-      "value": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/BYTE-MD-LITE.jpeg",
+      "value": "https://chat.whatsapp.com/Dm5d33VvkruASkYBXVBESK",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -47,9 +47,9 @@
       "value": "",
       "required": false
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {"yonahraj"
       "description": "insert your heroku APP NAME (the name you wrote at the beginning)",
-      "value": "",
+      "value": "yonahraj",
       "required": false
     },
     "SESSION_ID": {
@@ -70,7 +70,7 @@
     "OWNER_NUMBER": {
       "desc": "Your number, don't put '+' and put your area code (e.g., '92')",
       "required": true,
-      "value": "923458017380"
+      "value": "254748679675"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commands",
@@ -110,3 +110,4 @@
     }
   ]
 }
+THANKS YOU ALL👍❣️
